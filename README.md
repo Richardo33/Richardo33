@@ -1,15 +1,15 @@
-<!-- Optional banner -->
+<!-- Optional banner: place a 1200–1600 x 300–400 image at /assets/banner.png, then uncomment the line below -->
 <!-- <img src="assets/banner.png" alt="banner" width="100%"> -->
 
 <h1 align="center">Alvin Rikardo</h1>
-<p align="center"><em>Product-minded full-stack engineer — Clear UX • Solid APIs • Reliable data</em></p>
+<p align="center"><em>Product-minded full-stack developer — Clear UX • Solid APIs • Reliable data</em></p>
 
 ---
 
 ## What I do
 - Build end-to-end web products with **TypeScript**, **React/Next.js**, and **Express**.
-- Design data models & pipelines with **Prisma**, **PostgreSQL/Supabase**, sometimes **Redis**.
-- Ship fast with clean code, simple tests, and observability.
+- Design pragmatic data models with **Prisma** on **PostgreSQL / Supabase**; automate flows with **n8n** and **OpenAI**.
+- Ship fast with clean code, simple tests, and an eye on observability & DX.
 
 ## Tech I use
 <p>
@@ -23,18 +23,18 @@
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white">
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=111">
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-A400FF?logo=n8n&logoColor=white">
 </p>
 
 ## Selected work
-- **NextStep2** — AI-assisted recruiting (screening → interview scheduling) · Next.js, Supabase, n8n, OpenAI.
-- **Bookus** — Booking/reservation system · Prisma + Express + Postgres.
-- **Client-Circle** — Lightweight client portal · Vite/React.
+- **NextStep2** — AI-assisted recruiting (screening → interview scheduling) · Next.js, Supabase, n8n, OpenAI  
+- **Bookus** — Booking/reservation system · Prisma + Express + Postgres  
+- **Client-Circle** — Lightweight client portal · Vite/React
 
-> Lihat **Pinned repositories** di bawah untuk detail & demo/screenshots.
+> See the **Pinned repositories** below for details & screenshots.
 
-## Contact 
-- Email: <a href="mailto:alvinrikardo6@email">alvinrikardo6@email</a>  
-- LinkedIn: <a href="https://www.linkedin.com/in/alvin-rikardo/">My-Linkedin</a>
+## Contact
+- Email: <a href="mailto:alvinrikardo6@gmail.com">alvinrikardo6@gmail.com</a>  
+- LinkedIn: <a href="https://www.linkedin.com/in/alvin-rikardo/">alvin-rikardo</a>
 
 <sub>Last updated: <!-- date -->2025-11-10<!-- /date --></sub>
