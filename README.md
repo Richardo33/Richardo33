@@ -1,16 +1,40 @@
-## Hi there 👋
+<!-- Optional banner -->
+<!-- <img src="assets/banner.png" alt="banner" width="100%"> -->
 
-<!--
-**Richardo33/Richardo33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Alvin Rikardo</h1>
+<p align="center"><em>Product-minded full-stack engineer — Clear UX • Solid APIs • Reliable data</em></p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- Build end-to-end web products with **TypeScript**, **React/Next.js**, and **Express**.
+- Design data models & pipelines with **Prisma**, **PostgreSQL/Supabase**, sometimes **Redis**.
+- Ship fast with clean code, simple tests, and observability.
+
+## Tech I use
+<p>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232a?logo=react">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-0EA5E9?logo=tailwindcss&logoColor=white">
+  <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn/ui-111827">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3C873A?logo=nodedotjs&logoColor=white">
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white">
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=111">
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
+</p>
+
+## Selected work
+- **NextStep2** — AI-assisted recruiting (screening → interview scheduling) · Next.js, Supabase, n8n, OpenAI.
+- **Bookus** — Booking/reservation system · Prisma + Express + Postgres.
+- **Client-Circle** — Lightweight client portal · Vite/React.
+
+> Lihat **Pinned repositories** di bawah untuk detail & demo/screenshots.
+
+## Contact 
+- Email: <a href="mailto:alvinrikardo6@email">alvinrikardo6@email</a>  
+- LinkedIn: <a href="https://www.linkedin.com/in/alvin-rikardo/">My-Linkedin</a>
+
+<sub>Last updated: <!-- date -->2025-11-10<!-- /date --></sub>
