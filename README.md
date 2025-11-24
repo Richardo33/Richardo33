@@ -1,6 +1,10 @@
 <!-- Optional banner: place a 1200–1600 x 300–400 image at /assets/banner.png, then uncomment the line below -->
 <!-- <img src="assets/banner.png" alt="banner" width="100%"> -->
 
+<div align="center">
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=USERNAME.USERNAME" alt="visitor badge" />
+</div>
+
 <h1 align="center">Alvin Rikardo</h1>
 <p align="center"><em>Product-minded full-stack developer — Clear UX • Solid APIs • Reliable data</em></p>
 
